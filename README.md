@@ -14,8 +14,6 @@ Install the design system skill into your AI coding agent:
 npx skills add VatsalP117/agent-skills
 ```
 
-**Important**: Do not include `@` before the username. The correct command is `VatsalP117/agent-skills`, not `@VatsalP117/agent-skills`.
-
 Once installed, tell your agent: *"I want to create a design system"* or *"Make my UI look less generic"*.
 
 ---
