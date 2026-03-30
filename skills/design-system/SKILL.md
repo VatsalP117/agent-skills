@@ -1,21 +1,10 @@
 ---
 name: design-system
 description: >
-  Build, render, and iteratively refine a personal design system with the user.
-  Use this skill whenever the user wants to: create a design system, define their
-  visual style or design tokens, iterate on UI aesthetics, improve the look of
-  their AI-built projects, set up a tokens.json or CSS variables file, generate
-  a live design renderer, discuss what makes their UI feel generic, or reference
-  design inspiration like specific websites or apps they admire. Also trigger when
-  the user says things like "my UI looks like AI slop", "help me nail my aesthetic",
-  "create tokens for my project", "let's iterate on my design", "extract my design
-  system from my project", "quick design system", or "make this look less generic".
-  This skill runs a structured interview (quick or deep), produces
-  tokens.json + tokens.css + TASTE.md + agent-prompt.md, renders everything live
-  in the browser so the user can see and react, supports ongoing iteration,
-  and can automatically integrate the design system into the user's current project
-  (Next.js, React, Vue, Svelte, Astro, or vanilla HTML/CSS). It can also extract
-  and formalize a design system from an existing project's styles.
+  Build and refine a personal design system through a structured interview,
+  then output TASTE.md, tokens.json, tokens.css, agent-prompt.md, and a live
+  renderer. Supports create/extract/iterate flows and optional integration for
+  Next.js, React, Vue, Svelte, Astro, and vanilla projects.
 ---
 
 # Design System Skill
